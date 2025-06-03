@@ -2,7 +2,7 @@
 
 // Проверяем, был ли загружен файл
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['file'])) {
-    $target_dir = __DIR__ . '/upload/';
+    $target_dir = __DIR__ . '/uploads/';
     $target_file = $target_dir . basename($_FILES['file']['name']);
     $uploadOk = 1;
     $fileType = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));

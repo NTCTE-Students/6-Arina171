@@ -4,7 +4,7 @@
 ?>
 
 <main>
-    <p style="font-size: 20px; line-height: 1.5">Это главная страница.</p>
+    <p>Это главная страница.</p>
 </main>
 
 <?php
