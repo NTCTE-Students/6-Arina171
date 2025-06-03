@@ -1,0 +1,5 @@
+HTML - HyperText Markup Language
+CSS - Cascading Style Sheets
+JS - JavaScript
+PHP - PHP: Hypertext Preprocessor
+SQL - Structured Query Language
